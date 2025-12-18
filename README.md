@@ -53,7 +53,7 @@ The Java program simply prints **"Hello World"**. The project covers:
 
 ## How to Run
 1. Clone this repository:  
-   git clone https://github.com/samidha1-1/jenkins_java_demo
+   git clone https://github.com/samidha1-1/Java-CI-CD-Pipeline-with-Jenkins
 
 
 
